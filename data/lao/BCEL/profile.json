@@ -1,0 +1,53 @@
+{
+  "address": "No.01, Pangkham Street, Ban Xiengnheun, Chanthabouly District, Vientiane Capital, Lao P.D.R",
+  "phone": "+865 21 213 200",
+  "website": "https://bcel.com.la/bcel/",
+  "established": "Since 1975",
+  "listed": "11 January 2011",
+  "ipo_price": "5,910 LAK/Share (Average price of auction method)",
+  "advisor": "Lanexang Securities Public Company",
+  "business": "The principal activities of the Bank are to provide banking services including mobilizing and receiving short-term, medium-term, and long-term deposits from organizations and individuals; making short- term, medium-term, and long-term loans to organizations and individuals based on the requests and capability of the Bank’s sources of capital; foreign exchange transactions, international trade financial services, discounting of commercial papers, bonds and other valuable papers, and providing other banking services allowed by the Bank of Lao P.D.R. Especially, the insurance services and securities services.",
+  "listed_shares": 1544872000.0,
+  "free_float": 30.0,
+  "foreign": 30.0,
+  "shareholders": 5482.0,
+  "board": [
+    {
+      "name": "Mr. Soulivath Souvannachoumkham",
+      "position": "Chairman"
+    },
+    {
+      "name": "Mrs. Bounta Daravy",
+      "position": "Vice Chairman, Independent"
+    },
+    {
+      "name": "Mme. Saysamone Chanthachack",
+      "position": "Director"
+    },
+    {
+      "name": "Mr. Michael De Clercq",
+      "position": "Director"
+    },
+    {
+      "name": "Mr. Pasomphet KHAMTANH",
+      "position": "Director"
+    },
+    {
+      "name": "Assoc.Prof.Mr. Thongphet Chanthanivong",
+      "position": "Independent Director"
+    },
+    {
+      "name": "Mrs. Latdavanh SONGVILAY",
+      "position": "Independent Director"
+    },
+    {
+      "name": "Mr. Sonexay SILAPHET",
+      "position": "Independent Director"
+    },
+    {
+      "name": "Mme. Saysamone Chanthachack",
+      "position": "Managing Director"
+    }
+  ],
+  "_factsheet": "factsheet_1782268685154421.pdf"
+}

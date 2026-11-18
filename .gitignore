@@ -1,0 +1,15 @@
+# สภาพแวดล้อม / ไฟล์ชั่วคราว
+.venv/
+__pycache__/
+*.pyc
+*.log
+dist/
+
+# ข้อมูลส่วนตัว / ความลับ — ห้ามขึ้น GitHub
+data/app.db
+data/test-account.txt
+data/sec/
+.streamlit/secrets.toml
+
+# แคชที่ดาวน์โหลดใหม่ได้เอง (PDF Factsheet ของ LSX ~14MB) — ข้อมูลที่อ่านแล้วอยู่ใน data/lao/<CODE>/ ครบ
+data/lao/_factsheets/

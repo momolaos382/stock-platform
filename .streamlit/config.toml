@@ -1,0 +1,12 @@
+# ตั้งค่า Streamlit: สีหลักของตัวควบคุม (ปุ่มสลับ, ช่องที่เลือกอยู่) ให้เข้ากับธีมของเว็บ
+[theme]
+base = "light"
+primaryColor = "#7C5CFF"
+
+[server]
+runOnSave = true            # แก้ไฟล์แล้วหน้าเว็บรีเฟรชเองตอนพัฒนา
+enableStaticServing = true  # เปิดให้เว็บเรียกไฟล์ใน static/ ได้ (ฟอนต์ลาวที่ฝังไว้ → /app/static/fonts/...)
+maxUploadSize = 5           # ไฟล์อัปโหลดไม่เกิน 5MB (รูปโปรไฟล์, CSV หุ้นลาว)
+
+[browser]
+gatherUsageStats = false

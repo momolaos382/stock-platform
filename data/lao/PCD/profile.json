@@ -1,0 +1,49 @@
+{
+  "address": "5th Floor, Vientiane Plaza Hotel, Sailom Road, Hatsady Village, Chanthabouly District, Vientiane, Lao PDR",
+  "phone": "+856 21 265 394",
+  "website": "https://www.pcdlao.com/",
+  "established": "27 June 2017",
+  "listed": "10 Octopber 2017",
+  "ipo_price": "1,200Kip/Share",
+  "advisor": "APM(LAO) Securities Company Limited",
+  "business": "The company providers in Design and Engineering, Procurement and Construction focusing in infrastructure projects, namely: road construction, erosion protection and other related infrastructure work.",
+  "listed_shares": 582000000.0,
+  "free_float": 14.09,
+  "foreign": 100.0,
+  "shareholders": 392.0,
+  "board": [
+    {
+      "name": "Ph.D Sithong Phommachith",
+      "position": "Chairman"
+    },
+    {
+      "name": "Mr Sitha Phommachith",
+      "position": "Vice Chairman"
+    },
+    {
+      "name": "Mr Pheng Douangngeun",
+      "position": "Board Member"
+    },
+    {
+      "name": "Mr Nanthalath Thilakun",
+      "position": "Board Member/Independent member"
+    },
+    {
+      "name": "Mrs Haithong Phommachith",
+      "position": "Board Member"
+    },
+    {
+      "name": "Mr Phoutthasane Phommyxay",
+      "position": "Board Member/Independent member"
+    },
+    {
+      "name": "Mr Phoumsavanh Sounanthong",
+      "position": "Board Member"
+    },
+    {
+      "name": "Mr Pheng Douangngeun",
+      "position": "CEO"
+    }
+  ],
+  "_factsheet": "factsheet_1782268793973806.pdf"
+}

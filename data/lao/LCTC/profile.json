@@ -1,0 +1,59 @@
+{
+  "address": "Nongbone road, Saysettha District, Vientiane Capital, Lao P.D.R N",
+  "phone": "021 412111, 021 451 116",
+  "established": "06 December 1999",
+  "listed": "02 March 2018",
+  "ipo_price": "2,400 LAK/Share",
+  "advisor": "Lao-China Securities Company Limited",
+  "listed_shares": 40004000.0,
+  "free_float": 30.0,
+  "foreign": 100.0,
+  "shareholders": 142.0,
+  "board": [
+    {
+      "name": "Mr. Nie Lei",
+      "position": "Chairman"
+    },
+    {
+      "name": "Mr. Vanthong Sitthikoun",
+      "position": "Vice Chairman"
+    },
+    {
+      "name": "Mr. Liu Hao",
+      "position": "Member"
+    },
+    {
+      "name": "Mr. Khambon Xaylaovong",
+      "position": "Member"
+    },
+    {
+      "name": "Mr. Zhang Jing Hua",
+      "position": "Member"
+    },
+    {
+      "name": "Mr. Sinthanou Somfongboudtakhan",
+      "position": "Member"
+    },
+    {
+      "name": "Mrs. Cai Ling Ling",
+      "position": "Member"
+    },
+    {
+      "name": "Mr. Ding Zhen xu",
+      "position": "Member"
+    },
+    {
+      "name": "Mr. Liu Wenju",
+      "position": "Independent Member"
+    },
+    {
+      "name": "Mr. Dai Rong Hua",
+      "position": "Independent Member"
+    },
+    {
+      "name": "Mr. Vikhamdeng Inthasy",
+      "position": "Independent Member"
+    }
+  ],
+  "_factsheet": "factsheet_1782268812592666.pdf"
+}

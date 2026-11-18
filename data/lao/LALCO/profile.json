@@ -1,0 +1,41 @@
+{
+  "address": "NNN Building, Phonesinuan village, Sisattanak District, No Vientiane Capital, Lao P.D.R",
+  "phone": "021 255 557, 030 505 6685",
+  "website": "https://lalco.la",
+  "established": "05 Febuary 2015",
+  "listed": "10 October 2019",
+  "ipo_price": "2,700 LAK/Share",
+  "advisor": "BCEL-KT Securities Company Limited",
+  "business": "LALCO is a leasing business operating in Lao PDR, particularly retail finance (non-real estate). The company mainly focus on the vehicles from Japanese brands, with 3 types of leasing servicesfor:new cars and motorcycles, used cars and motocycles and refinance for cars and motorcycles",
+  "listed_shares": 301500000.0,
+  "free_float": 20.0,
+  "foreign": 100.0,
+  "shareholders": 76.0,
+  "board": [
+    {
+      "name": "Mrs Yuki Scott",
+      "position": "Chairwoman"
+    },
+    {
+      "name": "Mr Mitsuteru Nagaya",
+      "position": "Vice Chairman"
+    },
+    {
+      "name": "Mr Yoshihito Oshima",
+      "position": "Board Member"
+    },
+    {
+      "name": "Mr Hirofumi Inada",
+      "position": "Board Member"
+    },
+    {
+      "name": "Mrs Harumi Ide",
+      "position": "Board Member"
+    },
+    {
+      "name": "Mr Yoshihito Oshima",
+      "position": "General Director"
+    }
+  ],
+  "_factsheet": "factsheet_1782268245799303.pdf"
+}
